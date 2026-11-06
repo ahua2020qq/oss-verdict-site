@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>oss-verdict — 开源项目证据与事件档案</title>
+<style>
+  :root { color-scheme: dark; }
+  body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; background: #0d1117; color: #c9d1d9; margin: 0; display: flex; min-height: 100vh; align-items: center; justify-content: center; }
+  main { max-width: 720px; padding: 48px 24px; }
+  h1 { color: #58a6ff; font-size: 1.6rem; margin-bottom: 4px; }
+  .sub { color: #8b949e; margin-bottom: 28px; }
+  .stats { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 28px; }
+  .stat { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 10px 14px; }
+  .stat b { color: #58a6ff; display: block; font-size: 1.1rem; }
+  ul { list-style: none; padding: 0; }
+  li { padding: 8px 0; border-bottom: 1px solid #21262d; }
+  a { color: #58a6ff; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .note { color: #8b949e; font-size: .85rem; margin-top: 28px; line-height: 1.6; }
+  code { background: #161b22; padding: 1px 6px; border-radius: 4px; }
+</style>
+</head>
+<body><main>
+  <h1>oss-verdict</h1>
+  <div class="sub">开源项目证据与事件档案 — 日度采集 · 每条事件附证据链接</div>
+  <div class="stats">
+    <div class="stat"><b>5,063</b>项目</div>
+    <div class="stat"><b>56,215</b>快照</div>
+    <div class="stat"><b>1267</b>事件</div>
+    <div class="stat"><b>7</b>已消亡</div>
+  </div>
+  <ul>
+    <li>📦 <a href="catalog.md">全量目录</a> — 每个项目一页证据档案（/r/{owner}/{name}.md）</li>
+    <li>⚡ <a href="events/index.md">事件流</a> — 归档 / 消失 / 改名 / 许可证 / 里程碑 / 新版本</li>
+    <li>🚀 <a href="rising.md">star 增长榜</a> · 🪦 <a href="gone.md">消亡名录</a></li>
+    <li>🤖 <a href="llms.txt">llms.txt</a> — AI 助手入口（本站内容为 raw markdown，供机器直读）</li>
+    <li>📖 <a href="index.md">关于与数据口径</a></li>
+  </ul>
+  <div class="note">
+    数据截至 2026-11-06T15:18:39.080Z · 每天 21:00（UTC+8）自动更新<br>
+    快照语义：<code>200</code>=当日实测，<code>304</code>=GitHub 确认未变 · 判定引擎 v0 上线后将提供带方法版本的活性判定<br>
+    数据源自 GitHub 公共 API 的派生整理，与 GitHub 无隶属关系 · 内容 CC BY 4.0
+  </div>
+</main></body></html>
