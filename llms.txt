@@ -1,0 +1,68 @@
+# oss-verdict — 开源项目证据与事件档案
+
+> 日度采集的 5063 个 MIT/Apache 开源项目（头部+中腰部）时间序列与生命周期事件档案；每页附证据链接与数据截至时间戳。判定引擎 v0 上线后将提供活性判定。
+
+## 主要入口
+
+- [关于与数据口径](https://ahua2020qq.github.io/oss-verdict-site/index.md): 定位、三原则、引用建议
+- [全量目录](https://ahua2020qq.github.io/oss-verdict-site/catalog.md): 5056 个项目的证据页索引（/r/{owner}/{name}.md）
+- [事件流](https://ahua2020qq.github.io/oss-verdict-site/events/index.md): 归档/消失/改名/许可证变更/星标里程碑/新版本/描述·主页·标签突变
+- [star 增长榜](https://ahua2020qq.github.io/oss-verdict-site/rising.md): 观测期增长领先项目
+- [消亡名录](https://ahua2020qq.github.io/oss-verdict-site/gone.md): 404 消失、改名合并、隔离项目
+
+## 示例项目页（每页 = 当前状态 + 事件证据时间线 + 口径声明）
+
+- [public-apis/public-apis](https://ahua2020qq.github.io/oss-verdict-site/r/public-apis/public-apis.md): 498,756★, 0 events
+- [practical-tutorials/project-based-learning](https://ahua2020qq.github.io/oss-verdict-site/r/practical-tutorials/project-based-learning.md): 289,677★, 0 events
+- [trimstray/the-book-of-secret-knowledge](https://ahua2020qq.github.io/oss-verdict-site/r/trimstray/the-book-of-secret-knowledge.md): 258,241★, 0 events
+- [react/react](https://ahua2020qq.github.io/oss-verdict-site/r/react/react.md): 252,591★, 1 events
+- [anomalyco/opencode](https://ahua2020qq.github.io/oss-verdict-site/r/anomalyco/opencode.md): 226,643★, 1 events
+- [TheAlgorithms/Python](https://ahua2020qq.github.io/oss-verdict-site/r/TheAlgorithms/Python.md): 226,088★, 0 events
+- [vuejs/vue](https://ahua2020qq.github.io/oss-verdict-site/r/vuejs/vue.md): 212,525★, 0 events
+- [ossu/computer-science](https://ahua2020qq.github.io/oss-verdict-site/r/ossu/computer-science.md): 211,064★, 0 events
+- [tensorflow/tensorflow](https://ahua2020qq.github.io/oss-verdict-site/r/tensorflow/tensorflow.md): 201,590★, 0 events
+- [trekhleb/javascript-algorithms](https://ahua2020qq.github.io/oss-verdict-site/r/trekhleb/javascript-algorithms.md): 196,724★, 0 events
+- [microsoft/vscode](https://ahua2020qq.github.io/oss-verdict-site/r/microsoft/vscode.md): 195,348★, 4 events
+- [microsoft/markitdown](https://ahua2020qq.github.io/oss-verdict-site/r/microsoft/markitdown.md): 195,230★, 0 events
+- [avelino/awesome-go](https://ahua2020qq.github.io/oss-verdict-site/r/avelino/awesome-go.md): 193,736★, 0 events
+- [ohmyzsh/ohmyzsh](https://ahua2020qq.github.io/oss-verdict-site/r/ohmyzsh/ohmyzsh.md): 190,603★, 0 events
+- [ollama/ollama](https://ahua2020qq.github.io/oss-verdict-site/r/ollama/ollama.md): 186,883★, 3 events
+- [flutter/flutter](https://ahua2020qq.github.io/oss-verdict-site/r/flutter/flutter.md): 181,256★, 0 events
+- [twbs/bootstrap](https://ahua2020qq.github.io/oss-verdict-site/r/twbs/bootstrap.md): 175,055★, 1 events
+- [huggingface/transformers](https://ahua2020qq.github.io/oss-verdict-site/r/huggingface/transformers.md): 168,952★, 2 events
+- [Snailclimb/JavaGuide](https://ahua2020qq.github.io/oss-verdict-site/r/Snailclimb/JavaGuide.md): 159,556★, 0 events
+- [langflow-ai/langflow](https://ahua2020qq.github.io/oss-verdict-site/r/langflow-ai/langflow.md): 156,606★, 2 events
+- [Genymobile/scrcpy](https://ahua2020qq.github.io/oss-verdict-site/r/Genymobile/scrcpy.md): 154,754★, 0 events
+- [github/spec-kit](https://ahua2020qq.github.io/oss-verdict-site/r/github/spec-kit.md): 149,678★, 6 events
+- [langchain-ai/langchain](https://ahua2020qq.github.io/oss-verdict-site/r/langchain-ai/langchain.md): 149,465★, 4 events
+- [airbnb/javascript](https://ahua2020qq.github.io/oss-verdict-site/r/airbnb/javascript.md): 148,010★, 0 events
+- [Shubhamsaboo/awesome-llm-apps](https://ahua2020qq.github.io/oss-verdict-site/r/Shubhamsaboo/awesome-llm-apps.md): 144,573★, 0 events
+- [vercel/next.js](https://ahua2020qq.github.io/oss-verdict-site/r/vercel/next.js.md): 143,507★, 3 events
+- [yangshun/tech-interview-handbook](https://ahua2020qq.github.io/oss-verdict-site/r/yangshun/tech-interview-handbook.md): 143,285★, 0 events
+- [harry0703/MoneyPrinterTurbo](https://ahua2020qq.github.io/oss-verdict-site/r/harry0703/MoneyPrinterTurbo.md): 143,265★, 1 events
+- [microsoft/PowerToys](https://ahua2020qq.github.io/oss-verdict-site/r/microsoft/PowerToys.md): 140,947★, 1 events
+- [excalidraw/excalidraw](https://ahua2020qq.github.io/oss-verdict-site/r/excalidraw/excalidraw.md): 135,639★, 0 events
+- [openai/codex](https://ahua2020qq.github.io/oss-verdict-site/r/openai/codex.md): 135,178★, 4 events
+- [ggml-org/llama.cpp](https://ahua2020qq.github.io/oss-verdict-site/r/ggml-org/llama.cpp.md): 134,861★, 2 events
+- [kubernetes/kubernetes](https://ahua2020qq.github.io/oss-verdict-site/r/kubernetes/kubernetes.md): 129,044★, 0 events
+- [shadcn-ui/ui](https://ahua2020qq.github.io/oss-verdict-site/r/shadcn-ui/ui.md): 128,123★, 0 events
+- [react/react-native](https://ahua2020qq.github.io/oss-verdict-site/r/react/react-native.md): 126,912★, 1 events
+- [electron/electron](https://ahua2020qq.github.io/oss-verdict-site/r/electron/electron.md): 123,887★, 5 events
+- [nodejs/node](https://ahua2020qq.github.io/oss-verdict-site/r/nodejs/node.md): 123,700★, 2 events
+- [microsoft/generative-ai-for-beginners](https://ahua2020qq.github.io/oss-verdict-site/r/microsoft/generative-ai-for-beginners.md): 123,459★, 0 events
+- [TauricResearch/TradingAgents](https://ahua2020qq.github.io/oss-verdict-site/r/TauricResearch/TradingAgents.md): 122,449★, 1 events
+- [rust-lang/rust](https://ahua2020qq.github.io/oss-verdict-site/r/rust-lang/rust.md): 121,878★, 1 events
+- [browser-use/browser-use](https://ahua2020qq.github.io/oss-verdict-site/r/browser-use/browser-use.md): 120,944★, 3 events
+- [godotengine/godot](https://ahua2020qq.github.io/oss-verdict-site/r/godotengine/godot.md): 120,089★, 0 events
+- [mrdoob/three.js](https://ahua2020qq.github.io/oss-verdict-site/r/mrdoob/three.js.md): 118,311★, 0 events
+- [supabase/supabase](https://ahua2020qq.github.io/oss-verdict-site/r/supabase/supabase.md): 114,984★, 0 events
+- [tauri-apps/tauri](https://ahua2020qq.github.io/oss-verdict-site/r/tauri-apps/tauri.md): 112,886★, 1 events
+- [openai/whisper](https://ahua2020qq.github.io/oss-verdict-site/r/openai/whisper.md): 112,659★, 0 events
+- [microsoft/TypeScript](https://ahua2020qq.github.io/oss-verdict-site/r/microsoft/TypeScript.md): 111,805★, 0 events
+- [microsoft/typescript](https://ahua2020qq.github.io/oss-verdict-site/r/microsoft/typescript.md): 111,712★, 1 events
+- [sherlock-project/sherlock](https://ahua2020qq.github.io/oss-verdict-site/r/sherlock-project/sherlock.md): 111,048★, 1 events
+- [fatedier/frp](https://ahua2020qq.github.io/oss-verdict-site/r/fatedier/frp.md): 110,566★, 1 events
+
+## 程序化访问
+
+MCP server 提供工具：get_repo / search_repos / recent_events / star_gainers / dataset_stats（读同一档案库）。
