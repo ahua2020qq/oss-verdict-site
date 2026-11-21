@@ -1,0 +1,38 @@
+# CanadaHonk/porffor
+
+> MIT · JavaScript · 5,455★ · 队列：中腰部（2026-11 发现队列）
+> 仓库：https://github.com/CanadaHonk/porffor · 数据截至：2026-11-21T00:48:05.685Z · 本档案观测自 2026-11-01
+
+## 当前状态（最近实测 304 确认未变）
+
+| 字段 | 值 |
+|---|---|
+| Stars | 5,455（+91（观测期）） |
+| Forks / Issues / Watchers | 144 / 56 / 40 |
+| Contributors | 26 |
+| 最近推送 | 2026-11-17T08:03:19Z |
+| 最新版本 | alpha-25（2026-11-17）· [发布页](https://github.com/CanadaHonk/porffor/releases/tag/alpha-25) |
+| License | MIT · [许可文件](https://github.com/CanadaHonk/porffor/blob/HEAD/LICENSE) |
+| Homepage | https://porffor.dev |
+| Topics | —（确认未设置） |
+| 状态 | 活跃采集中 |
+
+## 事件时间线（证据链，共 5 条）
+
+| 日期 | 事件 | 详情与证据 |
+|---|---|---|
+| 2026-11-19 | 🏷️ 新版本 | tag: alpha-25；published_at: 2026-11-17T08:03:20Z [↗](https://github.com/CanadaHonk/porffor/releases/tag/alpha-25) |
+| 2026-11-15 | 🏷️ 新版本 | tag: alpha-24；published_at: 2026-11-14T21:38:10Z [↗](https://github.com/CanadaHonk/porffor/releases/tag/alpha-24) |
+| 2026-11-11 | 🏷️ 新版本 | tag: alpha-23；published_at: 2026-11-10T21:34:04Z [↗](https://github.com/CanadaHonk/porffor/releases/tag/alpha-23) |
+| 2026-11-06 | 🏷️ 新版本 | tag: alpha-22；published_at: 2026-11-05T16:40:05Z [↗](https://github.com/CanadaHonk/porffor/releases/tag/alpha-22) |
+| 2026-11-05 | 🏷️ 新版本 | tag: alpha-21；published_at: 2026-11-05T06:53:16Z [↗](https://github.com/CanadaHonk/porffor/releases/tag/alpha-21) |
+
+## 判定
+
+> ⏳ 待生成 —— 活性判定方法 v0 上线后自动填充（评分 = f(推送新近度, release 节奏, 贡献者趋势, star 速度)，方法全文公开、版本化）。当前页面内容均为可验证事实与事件证据。
+
+## 数据口径
+
+- 快照语义：`200` = 当日实测；`304` = GitHub ETag 确认未变，数值沿用上次（是确认，不是编造）。
+- 来源：GitHub 公共 API 日度采集的派生整理，与 GitHub 无隶属关系。页面内容 CC BY 4.0。
+- 本页稳定地址：https://ahua2020qq.github.io/oss-verdict-site/r/CanadaHonk/porffor.md

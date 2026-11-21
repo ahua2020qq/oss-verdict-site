@@ -1,0 +1,36 @@
+# ionic-team/ionic-framework
+
+> MIT · TypeScript · 52,774★ · 队列：头部（2025-10 名人堂队列）
+> 仓库：https://github.com/ionic-team/ionic-framework · 数据截至：2026-11-21T00:48:05.685Z · 本档案观测自 2026-11-01
+
+## 当前状态（最近实测 200）
+
+| 字段 | 值 |
+|---|---|
+| Stars | 52,774（+38（观测期）） |
+| Forks / Issues / Watchers | 13,291 / 481 / 1,542 |
+| Contributors | 389 |
+| 最近推送 | 2026-11-20T22:19:08Z |
+| 最新版本 | v9.0.13（2026-11-20）· [发布页](https://github.com/ionic-team/ionic-framework/releases/tag/v9.0.13) |
+| License | MIT · [许可文件](https://github.com/ionic-team/ionic-framework/blob/HEAD/LICENSE) |
+| Homepage | https://ionicframework.com |
+| Topics | angular, capacitor, framework, frontend, ionic, ios, javascript, material-design, mobile, pwa, react, stencil, stenciljs, typescript, ui-components, vue, web, webcomponents |
+| 状态 | 活跃采集中 |
+
+## 事件时间线（证据链，共 3 条）
+
+| 日期 | 事件 | 详情与证据 |
+|---|---|---|
+| 2026-11-20 | 🏷️ 新版本 | tag: v9.0.13；published_at: 2026-11-20T18:59:46Z [↗](https://github.com/ionic-team/ionic-framework/releases/tag/v9.0.13) |
+| 2026-11-19 | 🏷️ 新版本 | tag: v9.0.12；published_at: 2026-11-17T18:44:16Z [↗](https://github.com/ionic-team/ionic-framework/releases/tag/v9.0.12) |
+| 2026-11-11 | 🏷️ 新版本 | tag: v9.0.11；published_at: 2026-11-11T18:19:25Z [↗](https://github.com/ionic-team/ionic-framework/releases/tag/v9.0.11) |
+
+## 判定
+
+> ⏳ 待生成 —— 活性判定方法 v0 上线后自动填充（评分 = f(推送新近度, release 节奏, 贡献者趋势, star 速度)，方法全文公开、版本化）。当前页面内容均为可验证事实与事件证据。
+
+## 数据口径
+
+- 快照语义：`200` = 当日实测；`304` = GitHub ETag 确认未变，数值沿用上次（是确认，不是编造）。
+- 来源：GitHub 公共 API 日度采集的派生整理，与 GitHub 无隶属关系。页面内容 CC BY 4.0。
+- 本页稳定地址：https://ahua2020qq.github.io/oss-verdict-site/r/ionic-team/ionic-framework.md
