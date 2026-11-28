@@ -1,0 +1,49 @@
+# openai/openai-python
+
+> Apache-2.0 · Python · 32,265★ · 队列：头部（2025-10 名人堂队列）
+> 仓库：https://github.com/openai/openai-python · 数据截至：2026-11-28T01:56:18.752Z · 本档案观测自 2026-11-01
+
+## 当前状态（最近实测 200）
+
+| 字段 | 值 |
+|---|---|
+| Stars | 32,265（+263（观测期）） |
+| Forks / Issues / Watchers | 5,793 / 113 / 383 |
+| Contributors | 199 |
+| 最近推送 | 2026-11-26T08:01:28Z |
+| 最新版本 | v3.60.0（2026-11-26）· [发布页](https://github.com/openai/openai-python/releases/tag/v3.60.0) |
+| License | Apache-2.0 · [许可文件](https://github.com/openai/openai-python/blob/HEAD/LICENSE) |
+| Homepage | https://pypi.org/project/openai/ |
+| Topics | openai, python |
+| 状态 | 活跃采集中 |
+
+## 事件时间线（证据链，共 16 条）
+
+| 日期 | 事件 | 详情与证据 |
+|---|---|---|
+| 2026-11-26 | 🏷️ 新版本 | tag: v3.60.0；published_at: 2026-11-26T07:09:55Z [↗](https://github.com/openai/openai-python/releases/tag/v3.60.0) |
+| 2026-11-24 | 🏷️ 新版本 | tag: v3.59.0；published_at: 2026-11-24T19:18:59Z [↗](https://github.com/openai/openai-python/releases/tag/v3.59.0) |
+| 2026-11-24 | 🏷️ 新版本 | tag: v3.58.0；published_at: 2026-11-23T19:00:21Z [↗](https://github.com/openai/openai-python/releases/tag/v3.58.0) |
+| 2026-11-20 | 🏷️ 新版本 | tag: v3.57.0；published_at: 2026-11-20T01:27:57Z [↗](https://github.com/openai/openai-python/releases/tag/v3.57.0) |
+| 2026-11-19 | 🏷️ 新版本 | tag: v3.56.0；published_at: 2026-11-19T20:56:27Z [↗](https://github.com/openai/openai-python/releases/tag/v3.56.0) |
+| 2026-11-19 | 🏷️ 新版本 | tag: v3.55.1；published_at: 2026-11-18T16:04:26Z [↗](https://github.com/openai/openai-python/releases/tag/v3.55.1) |
+| 2026-11-16 | 🏷️ 新版本 | tag: v3.52.0；published_at: 2026-11-16T22:40:22Z [↗](https://github.com/openai/openai-python/releases/tag/v3.52.0) |
+| 2026-11-14 | 🏷️ 新版本 | tag: v3.51.0；published_at: 2026-11-13T21:12:49Z [↗](https://github.com/openai/openai-python/releases/tag/v3.51.0) |
+| 2026-11-12 | 🏷️ 新版本 | tag: v3.50.0；published_at: 2026-11-12T19:26:07Z [↗](https://github.com/openai/openai-python/releases/tag/v3.50.0) |
+| 2026-11-10 | 🏷️ 新版本 | tag: v3.49.0；published_at: 2026-11-10T06:47:04Z [↗](https://github.com/openai/openai-python/releases/tag/v3.49.0) |
+| 2026-11-09 | 🏷️ 新版本 | tag: v3.48.0；published_at: 2026-11-09T16:12:58Z [↗](https://github.com/openai/openai-python/releases/tag/v3.48.0) |
+| 2026-11-06 | 🏷️ 新版本 | tag: v3.47.0；published_at: 2026-11-05T18:04:10Z [↗](https://github.com/openai/openai-python/releases/tag/v3.47.0) |
+| 2026-11-05 | 🏷️ 新版本 | tag: v3.46.0；published_at: 2026-11-05T00:55:06Z [↗](https://github.com/openai/openai-python/releases/tag/v3.46.0) |
+| 2026-11-04 | 🏷️ 新版本 | tag: v3.45.0；published_at: 2026-11-04T02:23:23Z [↗](https://github.com/openai/openai-python/releases/tag/v3.45.0) |
+| 2026-11-03 | 🏷️ 新版本 | tag: v3.43.0；published_at: 2026-11-03T18:05:44Z [↗](https://github.com/openai/openai-python/releases/tag/v3.43.0) |
+| 2026-11-02 | 🏷️ 新版本 | tag: v3.42.1；published_at: 2026-11-01T20:56:19Z [↗](https://github.com/openai/openai-python/releases/tag/v3.42.1) |
+
+## 判定
+
+> ⏳ 待生成 —— 活性判定方法 v0 上线后自动填充（评分 = f(推送新近度, release 节奏, 贡献者趋势, star 速度)，方法全文公开、版本化）。当前页面内容均为可验证事实与事件证据。
+
+## 数据口径
+
+- 快照语义：`200` = 当日实测；`304` = GitHub ETag 确认未变，数值沿用上次（是确认，不是编造）。
+- 来源：GitHub 公共 API 日度采集的派生整理，与 GitHub 无隶属关系。页面内容 CC BY 4.0。
+- 本页稳定地址：https://ahua2020qq.github.io/oss-verdict-site/r/openai/openai-python.md

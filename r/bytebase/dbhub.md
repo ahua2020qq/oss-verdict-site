@@ -1,0 +1,42 @@
+# bytebase/dbhub
+
+> MIT · TypeScript · 4,006★ · 队列：中腰部（2026-11 发现队列）
+> 仓库：https://github.com/bytebase/dbhub · 数据截至：2026-11-28T01:56:18.752Z · 本档案观测自 2026-11-01
+
+## 当前状态（最近实测 304 确认未变）
+
+| 字段 | 值 |
+|---|---|
+| Stars | 4,006（+243（观测期）） |
+| Forks / Issues / Watchers | 368 / 8 / 21 |
+| Contributors | 47 |
+| 最近推送 | 2026-11-25T09:41:22Z |
+| 最新版本 | v2.1.0（2026-11-21）· [发布页](https://github.com/bytebase/dbhub/releases/tag/v2.1.0) |
+| License | MIT · [许可文件](https://github.com/bytebase/dbhub/blob/HEAD/LICENSE) |
+| Homepage | https://dbhub.ai |
+| Topics | agents, ai, claude, claude-ai, claude-code, clickhouse, codex, cursor, database, mariadb, mcp, mcp-server, mssql, mysql, oracle, postgres, postgresql, sql, sqlite, sqlserver |
+| 状态 | 活跃采集中 |
+
+## 事件时间线（证据链，共 9 条）
+
+| 日期 | 事件 | 详情与证据 |
+|---|---|---|
+| 2026-11-21 | 🏷️ 新版本 | tag: v2.1.0；published_at: 2026-11-21T16:35:06Z [↗](https://github.com/bytebase/dbhub/releases/tag/v2.1.0) |
+| 2026-11-20 | 🏷️ 标签变更 | from: ["agents","ai","anthropic","claude","claude-ai","codex","cursor","database","llm","mariadb","mcp","mcp-server","mssql","mysql","oracle","postgres","postgr [↗](https://github.com/bytebase/dbhub) |
+| 2026-11-20 | 📝 描述变更 | from: Token conscious database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite.；to: Token conscious database MCP server for Postgres, MySQL, [↗](https://github.com/bytebase/dbhub) |
+| 2026-11-20 | 🏷️ 新版本 | tag: v2.0.1；published_at: 2026-11-20T18:25:35Z [↗](https://github.com/bytebase/dbhub/releases/tag/v2.0.1) |
+| 2026-11-19 | 🏷️ 新版本 | tag: v2.0.0；published_at: 2026-11-18T17:07:55Z [↗](https://github.com/bytebase/dbhub/releases/tag/v2.0.0) |
+| 2026-11-16 | 🏷️ 新版本 | tag: v1.7.0；published_at: 2026-11-16T18:09:16Z [↗](https://github.com/bytebase/dbhub/releases/tag/v1.7.0) |
+| 2026-11-11 | 🏷️ 新版本 | tag: v1.6.1；published_at: 2026-11-11T05:47:33Z [↗](https://github.com/bytebase/dbhub/releases/tag/v1.6.1) |
+| 2026-11-07 | 🏷️ 新版本 | tag: v1.6.0；published_at: 2026-11-07T08:02:45Z [↗](https://github.com/bytebase/dbhub/releases/tag/v1.6.0) |
+| 2026-11-03 | 🏷️ 新版本 | tag: v1.5.1；published_at: 2026-11-03T06:59:41Z [↗](https://github.com/bytebase/dbhub/releases/tag/v1.5.1) |
+
+## 判定
+
+> ⏳ 待生成 —— 活性判定方法 v0 上线后自动填充（评分 = f(推送新近度, release 节奏, 贡献者趋势, star 速度)，方法全文公开、版本化）。当前页面内容均为可验证事实与事件证据。
+
+## 数据口径
+
+- 快照语义：`200` = 当日实测；`304` = GitHub ETag 确认未变，数值沿用上次（是确认，不是编造）。
+- 来源：GitHub 公共 API 日度采集的派生整理，与 GitHub 无隶属关系。页面内容 CC BY 4.0。
+- 本页稳定地址：https://ahua2020qq.github.io/oss-verdict-site/r/bytebase/dbhub.md
